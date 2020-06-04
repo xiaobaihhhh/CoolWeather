@@ -4,5 +4,6 @@
     <mapping directory="/data/workspace/myshixun/CoolWeather" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoolWeather" vcs="Git" />
   </component>
 </project>
